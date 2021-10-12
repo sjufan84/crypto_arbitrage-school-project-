@@ -17,9 +17,9 @@ Jupyter Lab -- Robust environment to be able to view and edit devopment projects
 
 Binary installers for the latest released version are available at the Python Package Index (PyPI) and on Conda.
 
-# conda
+### conda
 `conda install pandas`
-# or PyPI
+### or PyPI
 `pip install pandas`
 
 * Jupyter Lab -- 
